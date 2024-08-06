@@ -106,6 +106,9 @@ body {
 .theme-switch-wrapper {
     padding-left: 15px;
 }
+.theme-switch {
+    padding-top: 5px;
+}
 .theme-switch input {
     display: none;
 }
